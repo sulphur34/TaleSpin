@@ -1,0 +1,1453 @@
+fileFormatVersion: 2
+guid: a91dacb5826c5de44874079e3528d087
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AirplainsSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3520
+        width: 263
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68da871fa803bd4a80d669af75cb5d2
+      internalID: 405164508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3520
+        width: 263
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80fabfff8f18e1438f0cfd26bda2b77
+      internalID: -1855407215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3243
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb467d3ee5b90c4cad81b4bec9f6a29
+      internalID: -1567448410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3243
+        width: 183
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d182237edf86f48bc5117a285e1c30
+      internalID: -1670638965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3243
+        width: 183
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b19fb10b292344a12b572ff45330d
+      internalID: -968761320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3005
+        width: 217
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfddd47dc2279439629f2e234df970
+      internalID: -1732815034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2982
+        width: 216
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7030fc9b097a47bb5154a30666bdb
+      internalID: -207307946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2983
+        width: 216
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa2dd913473d8438a25ee14c0c9ae3
+      internalID: -968627881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2753
+        width: 217
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc2540f0df0f9d4ca6b8c8feff9b655
+      internalID: 1677114141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2755
+        width: 217
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7e26ac4c97144d9049f0c59fb8c05
+      internalID: 1535902564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2486
+        width: 217
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8887fcc5a2c0428f962dcd1512070
+      internalID: -713250802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2481
+        width: 197
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c8a53f5aad2746bfaec11684ccfda
+      internalID: 884364363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2481
+        width: 170
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c09a1221f9dba47b6ba1ec0d03356f
+      internalID: -1795881371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2484
+        width: 137
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143420c11de6f443974db8756d9bccb
+      internalID: 932181222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2149
+        width: 243
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7fc342d188e354285882924c16fc01
+      internalID: 1750054696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2152
+        width: 263
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf91dafbc2188499f98fce1a960790
+      internalID: 739001245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1900
+        width: 217
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3af43d51c52345946382cc027e94f
+      internalID: -1133794908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1900
+        width: 183
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb052e4723de2744a3a86773e0fea88
+      internalID: -1622407563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1903
+        width: 183
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d206dbb631e340a07e560f391d90c
+      internalID: 1523531064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1592
+        width: 236
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c014e2753534f4fab3a72af7d42a34
+      internalID: -957114816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1594
+        width: 236
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcdcc408540cf45b5d355a536804e0
+      internalID: 1820061170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1323
+        width: 216
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f9554662e0344aa1466d2c9a74612
+      internalID: -1732342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1324
+        width: 190
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96a569ad5d4b514ba266df0fd64d13c
+      internalID: -739436799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1326
+        width: 156
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a999039f5b4084a844efed4d86dea9
+      internalID: 998811438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1330
+        width: 156
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a5b0bb1225bc49ac0c11520064994
+      internalID: 772159237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1060
+        width: 223
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc973d8dd4462d44aa80d1d227d5812
+      internalID: 830559455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1057
+        width: 223
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c5e47a85093e4592a097034f795d9
+      internalID: 1096809056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 801
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5303e7ebea6bc47aec1782fe1f80fb
+      internalID: 747327608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 805
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e872ec044eec0241a5031c198ac701e
+      internalID: 1551209541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 804
+        width: 137
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850750b07bc941a449800817adcd8dc6
+      internalID: -1161641999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 804
+        width: 137
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6815e97159295f14bba0570e987cf997
+      internalID: -1806080803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 715
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54337921c5a121846bb3562da3cf1fed
+      internalID: -190723847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 715
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0e6a54ec36c149956482f825090bd
+      internalID: 980651213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 694
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43a4f0ae7b47b444be5125a34eb339b
+      internalID: 970478491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 682
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348cf2797196f2546bae2e1513f08798
+      internalID: 826079487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 676
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa67b3a740f34f4db2475a1b783df16
+      internalID: -911431269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 677
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199dcbde33de46b40b07c752fdea3c5e
+      internalID: 469907633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 681
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d28212c9637944a87ed4609fca91e
+      internalID: 563946193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 669
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec61fdbb1440b549832981f90d7808b
+      internalID: 208663310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 491
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edef3c5aa9ca254bb91e75571725473
+      internalID: -1946079687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 491
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b1a8016818a2d46ae85a95d56accda
+      internalID: -41862911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 524
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cb89205dc226d42a656542c468ea34
+      internalID: -1873525897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 520
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a2cebd751325488b092403aef4405
+      internalID: 2123479809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_91
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 490
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31dabcf5335d9346bf2b054e7e3e53c
+      internalID: 1596036860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_92
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 503
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c32d0ad39764b34f8c7be1544abe894
+      internalID: -1055097627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 497
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30847beb97afc3848a2106ceedca639f
+      internalID: -1441437240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_100
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 497
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67071058f1da440a176d99333c16fa
+      internalID: 1001363760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_103
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 267
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff64ecd8d89cc42864b437aac488b4
+      internalID: 1512149576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_106
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 238
+        width: 210
+        height: 197
+      alignment: 9
+      pivot: {x: 0.43809524, y: 0.49238577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a38c1dfc3b28a468d3b5e157b33eb3
+      internalID: -1655276061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_108
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 242
+        width: 184
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78cf8107cca53148ae7099cde29f2b2
+      internalID: -1787250659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_109
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 328
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609fdeaa6fc06b646a865d452fb5048a
+      internalID: -2083985644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 325
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d30dbbf6fd2414fb178bcb0dcc7db8
+      internalID: 1594801862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_111
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 269
+        width: 153
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18598da76cde4ef48a0e9eaaad278bc8
+      internalID: -1686259871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_133
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 174
+        height: 173
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.5606936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1483ec5a3e9e45963aaf8716dc695
+      internalID: 1033337638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirplainsSheet1_143
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 53
+        width: 184
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5300546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f04aa5cc1b3114d9245f24dadd7bd2
+      internalID: 1566118708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AirplainsSheet1_0: 405164508
+      AirplainsSheet1_1: -1855407215
+      AirplainsSheet1_10: -713250802
+      AirplainsSheet1_100: 1001363760
+      AirplainsSheet1_101: 1464373394
+      AirplainsSheet1_102: 705149945
+      AirplainsSheet1_103: 1512149576
+      AirplainsSheet1_104: 376125468
+      AirplainsSheet1_105: 36758548
+      AirplainsSheet1_106: -1655276061
+      AirplainsSheet1_107: 2000572364
+      AirplainsSheet1_108: -1787250659
+      AirplainsSheet1_109: -2083985644
+      AirplainsSheet1_11: 884364363
+      AirplainsSheet1_110: 1594801862
+      AirplainsSheet1_111: -1686259871
+      AirplainsSheet1_112: -18638118
+      AirplainsSheet1_113: -1773874676
+      AirplainsSheet1_114: -31858337
+      AirplainsSheet1_115: 1447626462
+      AirplainsSheet1_116: -404051310
+      AirplainsSheet1_117: -2087563716
+      AirplainsSheet1_118: -1694561542
+      AirplainsSheet1_119: -735653041
+      AirplainsSheet1_12: -1795881371
+      AirplainsSheet1_120: -350605648
+      AirplainsSheet1_121: -1598816235
+      AirplainsSheet1_122: -434494049
+      AirplainsSheet1_123: 2076992173
+      AirplainsSheet1_124: -569946282
+      AirplainsSheet1_125: -2012045912
+      AirplainsSheet1_126: -1373543007
+      AirplainsSheet1_127: 1546487220
+      AirplainsSheet1_128: -858502070
+      AirplainsSheet1_129: 1243981372
+      AirplainsSheet1_13: 932181222
+      AirplainsSheet1_130: 1994474488
+      AirplainsSheet1_131: 1966862287
+      AirplainsSheet1_132: -706826388
+      AirplainsSheet1_133: 1033337638
+      AirplainsSheet1_134: -1773634270
+      AirplainsSheet1_135: 959502116
+      AirplainsSheet1_136: -574505144
+      AirplainsSheet1_137: -334556479
+      AirplainsSheet1_138: -2116791499
+      AirplainsSheet1_139: -1744217023
+      AirplainsSheet1_14: 1750054696
+      AirplainsSheet1_140: 770748237
+      AirplainsSheet1_141: -339448076
+      AirplainsSheet1_142: 1875681489
+      AirplainsSheet1_143: 1566118708
+      AirplainsSheet1_144: 580407372
+      AirplainsSheet1_145: -608032654
+      AirplainsSheet1_146: -749429429
+      AirplainsSheet1_147: 2090114243
+      AirplainsSheet1_148: 613291437
+      AirplainsSheet1_149: 505059922
+      AirplainsSheet1_15: 739001245
+      AirplainsSheet1_150: -350269268
+      AirplainsSheet1_151: 900977552
+      AirplainsSheet1_152: 870409370
+      AirplainsSheet1_153: -554661724
+      AirplainsSheet1_154: 1257002188
+      AirplainsSheet1_155: -146453236
+      AirplainsSheet1_156: 3255543
+      AirplainsSheet1_157: 1603922802
+      AirplainsSheet1_158: -602248534
+      AirplainsSheet1_159: 1225557874
+      AirplainsSheet1_16: -1133794908
+      AirplainsSheet1_160: 599033417
+      AirplainsSheet1_161: -1504793770
+      AirplainsSheet1_162: 1032208241
+      AirplainsSheet1_163: -929944427
+      AirplainsSheet1_164: 19677322
+      AirplainsSheet1_165: -1414731511
+      AirplainsSheet1_166: 1452105029
+      AirplainsSheet1_167: 361493572
+      AirplainsSheet1_168: -207236289
+      AirplainsSheet1_169: 720224189
+      AirplainsSheet1_17: -1622407563
+      AirplainsSheet1_170: 2114665281
+      AirplainsSheet1_171: -1495361148
+      AirplainsSheet1_172: -122487832
+      AirplainsSheet1_173: 119014642
+      AirplainsSheet1_174: 909444273
+      AirplainsSheet1_18: 1523531064
+      AirplainsSheet1_19: -957114816
+      AirplainsSheet1_2: -1567448410
+      AirplainsSheet1_20: 1820061170
+      AirplainsSheet1_21: -1732342
+      AirplainsSheet1_22: -739436799
+      AirplainsSheet1_23: 998811438
+      AirplainsSheet1_24: 772159237
+      AirplainsSheet1_25: 830559455
+      AirplainsSheet1_26: 1096809056
+      AirplainsSheet1_27: 747327608
+      AirplainsSheet1_28: 1551209541
+      AirplainsSheet1_29: -1161641999
+      AirplainsSheet1_3: -1670638965
+      AirplainsSheet1_30: -1806080803
+      AirplainsSheet1_31: -190723847
+      AirplainsSheet1_32: 980651213
+      AirplainsSheet1_33: 970478491
+      AirplainsSheet1_34: 826079487
+      AirplainsSheet1_35: 1040348474
+      AirplainsSheet1_36: -911431269
+      AirplainsSheet1_37: 469907633
+      AirplainsSheet1_38: 563946193
+      AirplainsSheet1_39: -1216022819
+      AirplainsSheet1_4: -968761320
+      AirplainsSheet1_40: 303441755
+      AirplainsSheet1_41: 208663310
+      AirplainsSheet1_42: -719971882
+      AirplainsSheet1_43: -259543253
+      AirplainsSheet1_44: -831479523
+      AirplainsSheet1_45: -1840697882
+      AirplainsSheet1_46: 432656550
+      AirplainsSheet1_47: 1606739403
+      AirplainsSheet1_48: -1793472495
+      AirplainsSheet1_49: -385364848
+      AirplainsSheet1_5: -1732815034
+      AirplainsSheet1_50: -295855124
+      AirplainsSheet1_51: -481776573
+      AirplainsSheet1_52: 100799149
+      AirplainsSheet1_53: 1202416721
+      AirplainsSheet1_54: -308500214
+      AirplainsSheet1_55: -1828580340
+      AirplainsSheet1_56: 1772455675
+      AirplainsSheet1_57: 325119307
+      AirplainsSheet1_58: -381728150
+      AirplainsSheet1_59: -951759818
+      AirplainsSheet1_6: -207307946
+      AirplainsSheet1_60: -1759521368
+      AirplainsSheet1_61: -1946079687
+      AirplainsSheet1_62: 958530612
+      AirplainsSheet1_63: 414288102
+      AirplainsSheet1_64: 1326893134
+      AirplainsSheet1_65: -41862911
+      AirplainsSheet1_66: -1099070503
+      AirplainsSheet1_67: -1197814112
+      AirplainsSheet1_68: -427202684
+      AirplainsSheet1_69: 717262279
+      AirplainsSheet1_7: -968627881
+      AirplainsSheet1_70: -1020568026
+      AirplainsSheet1_71: 1520765991
+      AirplainsSheet1_72: -1124477652
+      AirplainsSheet1_73: 250527748
+      AirplainsSheet1_74: -492976234
+      AirplainsSheet1_75: 705421307
+      AirplainsSheet1_76: 1189129921
+      AirplainsSheet1_77: -1149414387
+      AirplainsSheet1_78: -1756161533
+      AirplainsSheet1_79: -1873525897
+      AirplainsSheet1_8: 1677114141
+      AirplainsSheet1_80: 2123479809
+      AirplainsSheet1_81: -1246793187
+      AirplainsSheet1_82: 1820473207
+      AirplainsSheet1_83: -1279843426
+      AirplainsSheet1_84: 2019928855
+      AirplainsSheet1_85: -1289238800
+      AirplainsSheet1_86: -1210447047
+      AirplainsSheet1_87: -1777486909
+      AirplainsSheet1_88: -1288644074
+      AirplainsSheet1_89: 853337341
+      AirplainsSheet1_9: 1535902564
+      AirplainsSheet1_90: -1407076286
+      AirplainsSheet1_91: 1596036860
+      AirplainsSheet1_92: -1055097627
+      AirplainsSheet1_93: -1331261367
+      AirplainsSheet1_94: 790464435
+      AirplainsSheet1_95: -1441437240
+      AirplainsSheet1_96: -2126451550
+      AirplainsSheet1_97: -1084693473
+      AirplainsSheet1_98: 1266105144
+      AirplainsSheet1_99: 462250257
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

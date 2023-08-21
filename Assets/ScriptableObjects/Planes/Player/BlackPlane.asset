@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef62f1b2694533142aca584e71801817, type: 3}
+  m_Name: BlackPlane
+  m_EditorClassIdentifier: 
+  _prefabPlane: {fileID: 7793079164183653292, guid: f8cc5ea6565510e46810c10a246c9d4c, type: 3}
+  _collisionDamage: 1
+  _maxHealth: 3
+  _minHealth: 0
+  _defaultSpeed: 0
+  _maxAmmo: 1
+  _bulletPrefab: {fileID: 5995709584185302913, guid: 11d17576e943af44186c965234118976, type: 3}
