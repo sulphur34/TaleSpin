@@ -17,5 +17,5 @@ MonoBehaviour:
   _maxHealth: 3
   _minHealth: 0
   _defaultSpeed: 0
-  _maxAmmo: 1
+  _maxAmmo: 3
   _bulletPrefab: {fileID: 5995709584185302913, guid: 11d17576e943af44186c965234118976, type: 3}
